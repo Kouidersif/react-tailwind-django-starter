@@ -43,11 +43,11 @@ cp .env.example .env
 
 3. Update the environment variables in the `.env` file:
 ```markdown
-SECRET_KEY=your_secret_key
+SECRET_KEY=changeme
 DEBUG=True
-POSTGRES_DB=crowdsourcingdb
-POSTGRES_USER=crowdsourcing
-POSTGRES_PASSWORD=crowdsourcing
+POSTGRES_DB=changeme
+POSTGRES_USER=changeme
+POSTGRES_PASSWORD=changeme
 DB_HOST=postgres
 ```
 
